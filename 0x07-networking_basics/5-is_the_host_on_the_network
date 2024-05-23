@@ -2,7 +2,8 @@
 #a Bash script that pings an IP address passed as an argument.
 #Requirements:
 #Accepts a string as an argument
-#Displays Usage: 5-is_the_host_on_the_network {IP_ADDRESS} if no argument passed
+#Displays Usage: 5-is_the_host_on_the_network {IP_ADDRESS} 
+#if no argument passed
 #Ping the IP 5 times
 
 
@@ -15,3 +16,4 @@ elif [$# -gt 1 ];then
 else
          ping "$1" -c 5
 fi 	 
+
