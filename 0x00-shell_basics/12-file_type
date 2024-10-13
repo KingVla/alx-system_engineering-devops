@@ -1,0 +1,5 @@
+#!/bin/bash
+
+
+print the file type
+file /tmp/iamafile
