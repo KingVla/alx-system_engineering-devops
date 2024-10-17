@@ -1,3 +1,2 @@
 #!/bin/bash
-printing directory content in long format
 ls -l

@@ -1,3 +1,2 @@
 #!/bin/bash
- the content list of worrkin directory
 echo "$LESS"
